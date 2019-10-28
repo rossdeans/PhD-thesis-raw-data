@@ -1,0 +1,26 @@
+Contained here are dynamic gas exchange data used in the PhD thesis of Ross M. Deans, entitled: 'The economic challenge of leaf gas exchange'.
+
+Excel files showing individual replicates for each species for an increase in irradiance from 50-1000 umol photons m-2 s-1 PAR are shown in 'light50-1000'.
+
+Excel files showing individual replicates for each species for a decrease in irradiance from 1000-50 umol photons m-2 s-1 PAR are shown in 'light1000-50'.
+
+The Excel file showing individual replicates for each species for dark respiration is shown in 'photo'.
+
+Each file contains data in columns for time (s), assimilation rate (A, umol m-2 s-1), transpiration rate (E, mmol m-2 s-1), stomatal conductance to water vapour (g, mol m-2 s-1), internal concentration of CO2 (Ci, umol mol-1), ambient concentration of CO2 (Ca, umol mol-1), leaf-to-air vapour pressure difference (VPDL, kPa), respectively.
+
+Species name is specified in the first two letters of the filename:
+Ac = Austrocedrus chilensis
+Ad = Adiantum capillus-veneris
+Cp = Callitris preissii
+Da = Dicksonia antarctica
+Ep = Eucalyptus pauciflora
+Gh = Gossypium hirsutum
+Hi = Histiolepis incisa
+Hr = Hypolepis rugolusa
+Md = Marsilea drummondii
+Nc = Nothofagus cunninghamii
+Pl = Prumnopitys ladei
+Pr = Pinus radiata
+So = Spinacea oleracea
+Vf = Vicia faba
+Vv = Vitis vinifera
